@@ -1,22 +1,41 @@
-# Desafio 01: Criando sua primeira Landing Page com HTML e CSS
+# Desafio CSS - Landing Page
 
-Bem vindo(a) ao primeiro desafio da Trilha de CSS da DIO! Nela, você vai construir sua primeira Landing Page com HTML e CSS, colocando em prática os fundamentos do CSS,
-as propriedades básicas da linguagem de estilização, além de trabalhar com as unidades de medidas relativas e absolutas que aprendemos ao longo da trilha.
+Este projeto foi desenvolvido como parte do Desafio 01 da Trilha de CSS da Digital Innovation One. O objetivo foi criar uma landing page utilizando apenas HTML e CSS, aplicando os conceitos aprendidos ao longo da trilha.
 
-[Clique aqui](https://micheleambrosio.github.io/dio-trilha-css-desafio-01/) para acessar o resultado final da Landing Page criada a partir do desafio!
+## 🔧 Tecnologias Utilizadas
 
-![image](https://user-images.githubusercontent.com/55519539/183538055-6cce606c-7d1d-4d15-a4be-ffeb5b37c956.png)
+- **HTML5**: Estruturação semântica da página.
+- **CSS3**:
+  - **Flexbox**: Layout flexível para alinhamento e distribuição de elementos.
+  - **Grid Layout**: Criação de layouts complexos com facilidade.
+  - **Pseudo-classes**: Estilização de elementos em estados específicos (ex: `:hover`, `:focus`).
+  - **Pseudo-elementos**: Inserção de conteúdo antes ou depois de elementos (ex: `::before`, `::after`).
+  - **Transições e animações**: Efeitos visuais suaves para interação do usuário.
+  - **Variáveis CSS**: Definição de cores e fontes reutilizáveis.
+  - **Media Queries**: Tornando a página responsiva para diferentes tamanhos de tela.
 
-Para você realizar o desafio, basta fazer um **fork** para o seu GitHub e começar a mexer no projeto.
-Dentro da pasta *main*, você vai encontrar todas as imagens e o arquivo HTML, contendo a estrutura básica da sua página, faltando apenas
-realizar a estilização da sua página. É necessário que você faça toda a parte responsável por interligar sua página HTML com suas folhas
-de estilo para que o resultado da estilização funcione.
+## 📄 Estrutura do Projeto
 
-[Link do Figma](https://www.figma.com/file/3PiokoJj9IhGDnNiWAJbz7/DIO---Desafio-01?node-id=2%3A6) contendo o protótipo do desafio para
-que você possa se basear.
+- **index.html**: Página principal contendo a estrutura da landing page.
+- **styles.css**: Folha de estilos com as definições visuais e responsivas.
+- **assets/**: Pasta contendo imagens e ícones utilizados no projeto.
 
-*Observações: para aplicar os textos em gradiente, utilize a propriedade CSS background-clip, porém, para funcionar em alguns navegadores,
-é necessário utilizar a propriedade -webkit-background-clip: text;*
+## 🌐 Acessar o Projeto
 
-Caso tenha alguma dúvida, ou queira comparar o resultado do desafio que você fez, nós temos o site finalizado na branch *final*. Basta alterar a branch do projeto
-utilizando o comando `git checkout final` no seu terminal.
+Você pode visualizar a landing page clicando no link abaixo:
+
+[]()
+
+## 📚 Aprendizados
+
+Durante o desenvolvimento deste projeto, foram aplicados os seguintes conceitos:
+
+- Estruturação semântica com HTML5.
+- Estilização avançada com CSS3, incluindo Flexbox e Grid Layout.
+- Criação de layouts responsivos utilizando media queries.
+- Implementação de animações e transições para melhorar a experiência do usuário.
+- Uso de pseudo-classes e pseudo-elementos para efeitos visuais.
+
+## 📌 Observações
+
+Este projeto foi desenvolvido como exercício prático para consolidar os conhecimentos adquiridos na Trilha de CSS da DIO. Não há integração com back-end ou funcionalidades dinâmicas; o foco principal foi na estilização e layout da página.
