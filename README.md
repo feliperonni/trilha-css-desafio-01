@@ -1,5 +1,9 @@
 # Desafio CSS - Landing Page
 
+Você pode visualizar a landing page clicando no link abaixo:
+
+[https://feliperonni.github.io/trilha-css-desafio-01/](Página Web)
+
 Este projeto foi desenvolvido como parte do Desafio 01 da Trilha de CSS da Digital Innovation One. O objetivo foi criar uma landing page utilizando apenas HTML e CSS, aplicando os conceitos aprendidos ao longo da trilha.
 
 ## 🔧 Tecnologias Utilizadas
@@ -21,10 +25,6 @@ Este projeto foi desenvolvido como parte do Desafio 01 da Trilha de CSS da Digit
 - **assets/**: Pasta contendo imagens e ícones utilizados no projeto.
 
 ## 🌐 Acessar o Projeto
-
-Você pode visualizar a landing page clicando no link abaixo:
-
-[]()
 
 ## 📚 Aprendizados
 
