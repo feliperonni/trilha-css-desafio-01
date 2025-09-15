@@ -2,7 +2,7 @@
 
 Você pode visualizar a landing page clicando no link abaixo:
 
-[https://feliperonni.github.io/trilha-css-desafio-01/](Página Web)
+[Página Web](https://feliperonni.github.io/trilha-css-desafio-01/)
 
 Este projeto foi desenvolvido como parte do Desafio 01 da Trilha de CSS da Digital Innovation One. O objetivo foi criar uma landing page utilizando apenas HTML e CSS, aplicando os conceitos aprendidos ao longo da trilha.
 
